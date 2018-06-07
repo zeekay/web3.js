@@ -1,6 +1,5 @@
 {
-  "name": "web3",
-  "namespace": "ethereum",
+  "name": "@zeekay/web3",
   "version": "0.20.6",
   "description": "Ethereum JavaScript API, middleware to talk to a ethereum node over RPC",
   "main": "./index.js",
